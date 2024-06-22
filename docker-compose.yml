@@ -9,7 +9,7 @@ services:
       - LANG=chs
       # ⚠️ Required:
       # Change this to your host's public address
-      - WG_HOST=zswei-wgeasy-vzk78licgfp.ws-eu114.gitpod.io
+      - WG_HOST=zswei-wgeasy-j6xma5vj992.ws-eu114.gitpod.io/
 
       # Optional:
       - PASSWORD=pass1234 (deprecated, see readme)
